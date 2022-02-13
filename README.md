@@ -1,2 +1,1 @@
-# havuz_depo
- NATO
+Designing for nato
