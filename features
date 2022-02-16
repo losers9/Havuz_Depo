@@ -1,0 +1,7 @@
+this program includes below features
+>connecting with secret server
+>sync with all logged devices
+>use via secret server database cluster
+>.add, .delete, .change, .update funcs must be avaible
+>with the specific time periods,own by own can be save automatically
+>thats all, yet.
