@@ -1,4 +1,4 @@
-#Designing for nato
+
 #python -m venv env
 #env\scripts\activate
 #C:\Users\casper\Desktop\havuz_depo\havuz_depo\havuz_depo_con\env\Scripts\python.exe -m pip install --upgrade pip
